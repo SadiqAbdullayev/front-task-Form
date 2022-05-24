@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAG,OAAiB;CACvC",
+    "sources": [
+        "import.scss",
+        "../SASS/variable/_variables.scss",
+        "../SASS/extend/_extend.scss",
+        "../SASS/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "import.css"
+}
